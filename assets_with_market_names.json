@@ -1,0 +1,2810 @@
+[
+    {
+        "assetid": "31847808466",
+        "market_hash_name": "Crownfall Candy Sack"
+    },
+    {
+        "assetid": "6410923857",
+        "market_hash_name": "Name Tag"
+    },
+    {
+        "assetid": "31968661954",
+        "market_hash_name": "Key of the Dead Reckoning"
+    },
+    {
+        "assetid": "32005222106",
+        "market_hash_name": "Bloodletter - Off-Hand"
+    },
+    {
+        "assetid": "31966602146",
+        "market_hash_name": "Bracer and Band of Ancestral Luck"
+    },
+    {
+        "assetid": "31927655402",
+        "market_hash_name": "Bracer of the Purist Champion"
+    },
+    {
+        "assetid": "31873482034",
+        "market_hash_name": "Potion Potentate - Armor"
+    },
+    {
+        "assetid": "31873482026",
+        "market_hash_name": "Potion Potentate - Arms"
+    },
+    {
+        "assetid": "31873482018",
+        "market_hash_name": "Potion Potentate - Back"
+    },
+    {
+        "assetid": "31873482010",
+        "market_hash_name": "Potion Potentate - Neck"
+    },
+    {
+        "assetid": "31873482002",
+        "market_hash_name": "Potion Potentate - Offhand"
+    },
+    {
+        "assetid": "31873481994",
+        "market_hash_name": "Potion Potentate - Shoulder"
+    },
+    {
+        "assetid": "31873478322",
+        "market_hash_name": "Pixel Pudge Decoration"
+    },
+    {
+        "assetid": "31873481986",
+        "market_hash_name": "Potion Potentate - Weapon"
+    },
+    {
+        "assetid": "31873474210",
+        "market_hash_name": "Primal Prowl - Style Unlock II"
+    },
+    {
+        "assetid": "31873195602",
+        "market_hash_name": "Foreteller's Drapes"
+    },
+    {
+        "assetid": "31968662274",
+        "market_hash_name": "Fruits of Wane"
+    },
+    {
+        "assetid": "31866001562",
+        "market_hash_name": "Whispering Wings - Shoulder"
+    },
+    {
+        "assetid": "31866001554",
+        "market_hash_name": "Whispering Wings - Arms"
+    },
+    {
+        "assetid": "31866001546",
+        "market_hash_name": "Whispering Wings - Belt"
+    },
+    {
+        "assetid": "31866001538",
+        "market_hash_name": "Whispering Wings - Head"
+    },
+    {
+        "assetid": "31866001530",
+        "market_hash_name": "Whispering Wings - Weapon"
+    },
+    {
+        "assetid": "31866001522",
+        "market_hash_name": "Whispering Wings - Offhand Weapon"
+    },
+    {
+        "assetid": "31865998794",
+        "market_hash_name": "Pixel Necromancer Skeleton Decoration"
+    },
+    {
+        "assetid": "31865998786",
+        "market_hash_name": "Pixel Skeleton Ghost Decoration"
+    },
+    {
+        "assetid": "31865999842",
+        "market_hash_name": "Designs of Ancient Druud"
+    },
+    {
+        "assetid": "31865994714",
+        "market_hash_name": "Primal Prowl - Style Unlock III"
+    },
+    {
+        "assetid": "31860610994",
+        "market_hash_name": "Pixel Kazurai (B) Decoration"
+    },
+    {
+        "assetid": "31860610986",
+        "market_hash_name": "Pixel Kez Decoration"
+    },
+    {
+        "assetid": "31860611002",
+        "market_hash_name": "Pixel Kazurai (A) Decoration"
+    },
+    {
+        "assetid": "31865436034",
+        "market_hash_name": "Crownfall Act IV Loading Screen 5"
+    },
+    {
+        "assetid": "31847817002",
+        "market_hash_name": "Crown of Tears"
+    },
+    {
+        "assetid": "31865436146",
+        "market_hash_name": "Crownfall Act IV Loading Screen 7"
+    },
+    {
+        "assetid": "31841872474",
+        "market_hash_name": "Dota Plus - One Month Membership"
+    },
+    {
+        "assetid": "31865436242",
+        "market_hash_name": "Crownfall Act IV Loading Screen 2"
+    },
+    {
+        "assetid": "31834228010",
+        "market_hash_name": "Pixel Gralla Decoration"
+    },
+    {
+        "assetid": "31865436402",
+        "market_hash_name": "Crownfall Act IV Loading Screen 4"
+    },
+    {
+        "assetid": "31865436498",
+        "market_hash_name": "Crownfall Act IV Loading Screen 1"
+    },
+    {
+        "assetid": "31828169986",
+        "market_hash_name": "Pixel Oglodi (B) Decoration"
+    },
+    {
+        "assetid": "31828169954",
+        "market_hash_name": "Pixel Oglodi (A) Decoration"
+    },
+    {
+        "assetid": "31785049626",
+        "market_hash_name": "Crownfall Sticker - Bloodseeker"
+    },
+    {
+        "assetid": "31785050458",
+        "market_hash_name": "Crownfall Sticker - Bakeet"
+    },
+    {
+        "assetid": "31785050578",
+        "market_hash_name": "Glitter Crownfall Sticker - Blueheart Disciple"
+    },
+    {
+        "assetid": "31785050762",
+        "market_hash_name": "Crownfall Sticker - Blind Queensguard"
+    },
+    {
+        "assetid": "31785050842",
+        "market_hash_name": "Glitter Crownfall Sticker - Warlock"
+    },
+    {
+        "assetid": "31785051410",
+        "market_hash_name": "Crownfall Sticker - Broodmother"
+    },
+    {
+        "assetid": "31785051578",
+        "market_hash_name": "Crownfall Sticker - Skeleton Ancestors"
+    },
+    {
+        "assetid": "31785051658",
+        "market_hash_name": "Crownfall Sticker - Leviathan"
+    },
+    {
+        "assetid": "31785051842",
+        "market_hash_name": "Crownfall Sticker - Nezzo the Merchant"
+    },
+    {
+        "assetid": "31785052218",
+        "market_hash_name": "Crownfall Sticker - Twobeard"
+    },
+    {
+        "assetid": "31785052314",
+        "market_hash_name": "Crownfall Sticker - Batrider"
+    },
+    {
+        "assetid": "31785052522",
+        "market_hash_name": "Crownfall Sticker - Winter Wyvern"
+    },
+    {
+        "assetid": "31785052594",
+        "market_hash_name": "Crownfall Sticker - Dolfrat the Wizard"
+    },
+    {
+        "assetid": "31785052754",
+        "market_hash_name": "Crownfall Sticker - Baron Porculescu"
+    },
+    {
+        "assetid": "31785052874",
+        "market_hash_name": "Crownfall Sticker - Vespis the Sand Djinn"
+    },
+    {
+        "assetid": "31785052946",
+        "market_hash_name": "Crownfall Sticker - Crown Consul"
+    },
+    {
+        "assetid": "31785052994",
+        "market_hash_name": "Crownfall Sticker - Shen (Parka)"
+    },
+    {
+        "assetid": "31785053146",
+        "market_hash_name": "Glitter Crownfall Sticker - Philip"
+    },
+    {
+        "assetid": "31785053226",
+        "market_hash_name": "Crownfall Sticker - Beadie"
+    },
+    {
+        "assetid": "31785053370",
+        "market_hash_name": "Crownfall Sticker - Clortho the Strange"
+    },
+    {
+        "assetid": "31785053426",
+        "market_hash_name": "Glitter Crownfall Sticker - Geraldus"
+    },
+    {
+        "assetid": "31785053490",
+        "market_hash_name": "Crownfall Sticker - Threebeard the Hermit"
+    },
+    {
+        "assetid": "31785053570",
+        "market_hash_name": "Crownfall Sticker - Mox the Scrap Merchant"
+    },
+    {
+        "assetid": "31785053698",
+        "market_hash_name": "Crownfall Sticker - Crystal Maiden (Staff)"
+    },
+    {
+        "assetid": "31784450698",
+        "market_hash_name": "Assassin's Edge"
+    },
+    {
+        "assetid": "31784453474",
+        "market_hash_name": "Crownfall Act IV Loading Screen 3"
+    },
+    {
+        "assetid": "31784264578",
+        "market_hash_name": "Back Hook - Off-Hand"
+    },
+    {
+        "assetid": "31740389834",
+        "market_hash_name": "Augur's Curse Set"
+    },
+    {
+        "assetid": "31714258410",
+        "market_hash_name": "Longbow of the Boreal Watch"
+    },
+    {
+        "assetid": "31327077074",
+        "market_hash_name": "Maiden of the Slithereen Nobility"
+    },
+    {
+        "assetid": "30970376418",
+        "market_hash_name": "Pike of the Blood Stained Sands"
+    },
+    {
+        "assetid": "30878098010",
+        "market_hash_name": "Grimfeather the Grotesque - Familiar"
+    },
+    {
+        "assetid": "30878098002",
+        "market_hash_name": "Grimfeather the Grotesque - Armor"
+    },
+    {
+        "assetid": "30836645706",
+        "market_hash_name": "Dead Winter Grasp"
+    },
+    {
+        "assetid": "30836645698",
+        "market_hash_name": "Dead Winter Sash"
+    },
+    {
+        "assetid": "30836645690",
+        "market_hash_name": "Dead Winter Soul"
+    },
+    {
+        "assetid": "30827643954",
+        "market_hash_name": "Diffusal Lance"
+    },
+    {
+        "assetid": "30836645682",
+        "market_hash_name": "Dead Winter Mantle"
+    },
+    {
+        "assetid": "30782592234",
+        "market_hash_name": "Commodore's Sash"
+    },
+    {
+        "assetid": "30729137562",
+        "market_hash_name": "Chains of the Black Death Loading Screen"
+    },
+    {
+        "assetid": "30729137554",
+        "market_hash_name": "Wrist Shackles of the Black Death"
+    },
+    {
+        "assetid": "30729137546",
+        "market_hash_name": "Shoulder of the Black Death"
+    },
+    {
+        "assetid": "30729137538",
+        "market_hash_name": "Cuff Hook of the Black Death"
+    },
+    {
+        "assetid": "30729137530",
+        "market_hash_name": "Execution Headclamp of the Black Death"
+    },
+    {
+        "assetid": "31926085410",
+        "market_hash_name": "Inscribed Crazed Tassels of the Black Death"
+    },
+    {
+        "assetid": "30729137514",
+        "market_hash_name": "Ball-n-Chains of the Black Death"
+    },
+    {
+        "assetid": "30729137506",
+        "market_hash_name": "Axe of the Black Death Executioner"
+    },
+    {
+        "assetid": "30705158714",
+        "market_hash_name": "Executioner's Cape"
+    },
+    {
+        "assetid": "30644935706",
+        "market_hash_name": "Crimson Wyvern Bracers"
+    },
+    {
+        "assetid": "30633259018",
+        "market_hash_name": "Inscribed Piston Impaler"
+    },
+    {
+        "assetid": "30612845698",
+        "market_hash_name": "Pauldron of The Iron Drakken"
+    },
+    {
+        "assetid": "30591634986",
+        "market_hash_name": "Aurora: Wolf Pup of Icewrack Emoticon"
+    },
+    {
+        "assetid": "30591634978",
+        "market_hash_name": "Frost Avalanche"
+    },
+    {
+        "assetid": "30523455122",
+        "market_hash_name": "Origins of the Shadow Creed - Back"
+    },
+    {
+        "assetid": "30523455114",
+        "market_hash_name": "Origins of the Shadow Creed - Belt"
+    },
+    {
+        "assetid": "30523455106",
+        "market_hash_name": "Origins of the Shadow Creed - Tail"
+    },
+    {
+        "assetid": "30523455010",
+        "market_hash_name": "Wake of the Stygian Maw"
+    },
+    {
+        "assetid": "30523455002",
+        "market_hash_name": "Spines of the Stygian Maw"
+    },
+    {
+        "assetid": "30523454994",
+        "market_hash_name": "Belt of the Stygian Maw"
+    },
+    {
+        "assetid": "30523454986",
+        "market_hash_name": "Tail of the Stygian Maw"
+    },
+    {
+        "assetid": "30523454978",
+        "market_hash_name": "Stygian Maw Loading Screen"
+    },
+    {
+        "assetid": "30523455098",
+        "market_hash_name": "Origins of the Shadow Creed - Armor"
+    },
+    {
+        "assetid": "30521191034",
+        "market_hash_name": "Spectrolite Staff"
+    },
+    {
+        "assetid": "30448066466",
+        "market_hash_name": "Frostivus 2023 Treasure Chest"
+    },
+    {
+        "assetid": "30438618922",
+        "market_hash_name": "Bladebreaker Spaulders"
+    },
+    {
+        "assetid": "30438618914",
+        "market_hash_name": "Spirit of the Howling Wolf Set"
+    },
+    {
+        "assetid": "30365111210",
+        "market_hash_name": "Iceforged Hair"
+    },
+    {
+        "assetid": "30296325026",
+        "market_hash_name": "Qaldin Assassin's Slicer"
+    },
+    {
+        "assetid": "30296325018",
+        "market_hash_name": "Qaldin Assassin's Glaive"
+    },
+    {
+        "assetid": "30296325010",
+        "market_hash_name": "Qaldin Assassin's Dagger"
+    },
+    {
+        "assetid": "30222175290",
+        "market_hash_name": "Sacred Bones Spear"
+    },
+    {
+        "assetid": "30191113514",
+        "market_hash_name": "Alpha Predator Set"
+    },
+    {
+        "assetid": "30162743170",
+        "market_hash_name": "Scavenging Guttleslug"
+    },
+    {
+        "assetid": "30140297978",
+        "market_hash_name": "Span of Black Nihility"
+    },
+    {
+        "assetid": "30140297970",
+        "market_hash_name": "Sweep of Black Nihility"
+    },
+    {
+        "assetid": "30140297962",
+        "market_hash_name": "Inscribed Strap of Black Nihility"
+    },
+    {
+        "assetid": "30140297954",
+        "market_hash_name": "Crown of Black Nihility"
+    },
+    {
+        "assetid": "30140297946",
+        "market_hash_name": "Talons of Black Nihility"
+    },
+    {
+        "assetid": "30140283114",
+        "market_hash_name": "Inscribed Draining Wight"
+    },
+    {
+        "assetid": "30139448186",
+        "market_hash_name": "Announcer: GLaDOS"
+    },
+    {
+        "assetid": "30138084914",
+        "market_hash_name": "Fascinations of Flight - Belt"
+    },
+    {
+        "assetid": "30138084906",
+        "market_hash_name": "Fascinations of Flight - Armor"
+    },
+    {
+        "assetid": "30138084898",
+        "market_hash_name": "Fascinations of Flight - Head"
+    },
+    {
+        "assetid": "30138084890",
+        "market_hash_name": "Fascinations of Flight - Weapon"
+    },
+    {
+        "assetid": "30138080978",
+        "market_hash_name": "The Wrath of Zaug - Back"
+    },
+    {
+        "assetid": "30138080970",
+        "market_hash_name": "The Wrath of Zaug - Head"
+    },
+    {
+        "assetid": "30138075386",
+        "market_hash_name": "Pixel Crystal Maiden Decoration"
+    },
+    {
+        "assetid": "30138075370",
+        "market_hash_name": "Pixel Bakeet (Parka) Decoration"
+    },
+    {
+        "assetid": "30138075362",
+        "market_hash_name": "Pixel Kez (Parka) Decoration"
+    },
+    {
+        "assetid": "30138075354",
+        "market_hash_name": "Pixel Vengeful Spirit (Parka) Decoration"
+    },
+    {
+        "assetid": "30138080962",
+        "market_hash_name": "The Wrath of Zaug - Loading Screen"
+    },
+    {
+        "assetid": "30138084882",
+        "market_hash_name": "Fascinations of Flight - Loading Screen"
+    },
+    {
+        "assetid": "30123817970",
+        "market_hash_name": "Pixel Winter Wyvern Decoration"
+    },
+    {
+        "assetid": "30123817962",
+        "market_hash_name": "Solitude of the Winter Squall"
+    },
+    {
+        "assetid": "30123323266",
+        "market_hash_name": "Loading Screen of the Demonic Vessel"
+    },
+    {
+        "assetid": "30123323258",
+        "market_hash_name": "Warhorse of the Demonic Vessel"
+    },
+    {
+        "assetid": "30123323250",
+        "market_hash_name": "Prey of the Demonic Vessel"
+    },
+    {
+        "assetid": "30123323242",
+        "market_hash_name": "Hood of the Demonic Vessel"
+    },
+    {
+        "assetid": "30123323234",
+        "market_hash_name": "Cloak of the Demonic Vessel"
+    },
+    {
+        "assetid": "30123323226",
+        "market_hash_name": "Blade of the Demonic Vessel"
+    },
+    {
+        "assetid": "30119314298",
+        "market_hash_name": "Fascinations of Flight - Vector Variant Armor"
+    },
+    {
+        "assetid": "30118904818",
+        "market_hash_name": "Helm of the Bitterwing Legacy"
+    },
+    {
+        "assetid": "30118904810",
+        "market_hash_name": "Shoulder of the Bitterwing Legacy"
+    },
+    {
+        "assetid": "30118904802",
+        "market_hash_name": "Barding of the Bitterwing Legacy"
+    },
+    {
+        "assetid": "30118904794",
+        "market_hash_name": "Shield of the Bitterwing Legacy"
+    },
+    {
+        "assetid": "30118904786",
+        "market_hash_name": "Arms of the Bitterwing Legacy"
+    },
+    {
+        "assetid": "30118904778",
+        "market_hash_name": "Blade of the Bitterwing Legacy"
+    },
+    {
+        "assetid": "30118904770",
+        "market_hash_name": "Bitterwing"
+    },
+    {
+        "assetid": "30118904762",
+        "market_hash_name": "Loading Screen of the Bitterwing Legacy"
+    },
+    {
+        "assetid": "30118396018",
+        "market_hash_name": "Lionheart - Arms"
+    },
+    {
+        "assetid": "30118396010",
+        "market_hash_name": "Lionheart - Back"
+    },
+    {
+        "assetid": "30118396002",
+        "market_hash_name": "Lionheart - Head"
+    },
+    {
+        "assetid": "30118395994",
+        "market_hash_name": "Lionheart - Shoulder"
+    },
+    {
+        "assetid": "30118388482",
+        "market_hash_name": "Pixel Lich Decoration"
+    },
+    {
+        "assetid": "30118395986",
+        "market_hash_name": "Lionheart - Weapon"
+    },
+    {
+        "assetid": "30117451074",
+        "market_hash_name": "Fascinations of Flight - Vector Variant Head"
+    },
+    {
+        "assetid": "30106714802",
+        "market_hash_name": "Long Blade of Distant Sands"
+    },
+    {
+        "assetid": "30118907162",
+        "market_hash_name": "Crownfall Act III Loading Screen 5"
+    },
+    {
+        "assetid": "30878097994",
+        "market_hash_name": "Grimfeather the Grotesque - Head"
+    },
+    {
+        "assetid": "30095596618",
+        "market_hash_name": "Crownfall Act III Loading Screen 9"
+    },
+    {
+        "assetid": "30090572986",
+        "market_hash_name": "Crystalline Crown - Shoulder"
+    },
+    {
+        "assetid": "30090572978",
+        "market_hash_name": "Crystalline Crown - Tail"
+    },
+    {
+        "assetid": "30090572970",
+        "market_hash_name": "Crystalline Crown - Head"
+    },
+    {
+        "assetid": "30090565322",
+        "market_hash_name": "Pixel Broodmother Decoration"
+    },
+    {
+        "assetid": "30090565314",
+        "market_hash_name": "Pixel Pangolier Decoration"
+    },
+    {
+        "assetid": "30090572962",
+        "market_hash_name": "Crystalline Crown - Arms"
+    },
+    {
+        "assetid": "30090111218",
+        "market_hash_name": "Fascinations of Flight - Vector Variant Weapon"
+    },
+    {
+        "assetid": "30082751538",
+        "market_hash_name": "Tines of the Pyrexae - Tail"
+    },
+    {
+        "assetid": "30082751530",
+        "market_hash_name": "Tines of the Pyrexae - Back"
+    },
+    {
+        "assetid": "30082751522",
+        "market_hash_name": "Tines of the Pyrexae - Head"
+    },
+    {
+        "assetid": "30082744954",
+        "market_hash_name": "Pixel Lina Decoration"
+    },
+    {
+        "assetid": "30082751514",
+        "market_hash_name": "Tines of the Pyrexae - Body Head"
+    },
+    {
+        "assetid": "30081131098",
+        "market_hash_name": "Master Chocobo"
+    },
+    {
+        "assetid": "30081099530",
+        "market_hash_name": "Amaterasu"
+    },
+    {
+        "assetid": "30081136730",
+        "market_hash_name": "Inscribed Resistive Pinfold"
+    },
+    {
+        "assetid": "30080580450",
+        "market_hash_name": "Crownfall Act III Loading Screen 4"
+    },
+    {
+        "assetid": "30072660458",
+        "market_hash_name": "Controlled Burn"
+    },
+    {
+        "assetid": "30080580698",
+        "market_hash_name": "Crownfall Act III Loading Screen 1"
+    },
+    {
+        "assetid": "30069991698",
+        "market_hash_name": "Crownfall Act III Loading Screen 2"
+    },
+    {
+        "assetid": "30053679898",
+        "market_hash_name": "Chaos Fulcrum"
+    },
+    {
+        "assetid": "30069992002",
+        "market_hash_name": "Crownfall Act III Loading Screen 8"
+    },
+    {
+        "assetid": "30043070122",
+        "market_hash_name": "Noble and Imperial Pride"
+    },
+    {
+        "assetid": "30080580098",
+        "market_hash_name": "Crownfall Act III Loading Screen 7"
+    },
+    {
+        "assetid": "30040717346",
+        "market_hash_name": "Style of the Wild Wind"
+    },
+    {
+        "assetid": "30043088538",
+        "market_hash_name": "Crownfall Act III Loading Screen 3"
+    },
+    {
+        "assetid": "29989073466",
+        "market_hash_name": "Loading Screen of Deep Magma"
+    },
+    {
+        "assetid": "29989073458",
+        "market_hash_name": "Horns of Deep Magma"
+    },
+    {
+        "assetid": "29989073450",
+        "market_hash_name": "Totem of Deep Magma"
+    },
+    {
+        "assetid": "29989073442",
+        "market_hash_name": "Belt of Deep Magma"
+    },
+    {
+        "assetid": "29989073434",
+        "market_hash_name": "Arms of Deep Magma"
+    },
+    {
+        "assetid": "30005994466",
+        "market_hash_name": "Crownfall Act III Loading Screen 6"
+    },
+    {
+        "assetid": "29983036578",
+        "market_hash_name": "Eyes in the Endless Dark - Weapon"
+    },
+    {
+        "assetid": "29983036570",
+        "market_hash_name": "Eyes in the Endless Dark - Offhand"
+    },
+    {
+        "assetid": "29983036562",
+        "market_hash_name": "Eyes in the Endless Dark - Belt"
+    },
+    {
+        "assetid": "29983036554",
+        "market_hash_name": "Eyes in the Endless Dark - Head"
+    },
+    {
+        "assetid": "29983036546",
+        "market_hash_name": "Eyes in the Endless Dark - Arms"
+    },
+    {
+        "assetid": "29983023202",
+        "market_hash_name": "Bloodbird's Lament - Head"
+    },
+    {
+        "assetid": "29983023194",
+        "market_hash_name": "Bloodbird's Lament - Belt"
+    },
+    {
+        "assetid": "29983023186",
+        "market_hash_name": "Bloodbird's Lament - Misc"
+    },
+    {
+        "assetid": "29983023178",
+        "market_hash_name": "Bloodbird's Lament - Weapon"
+    },
+    {
+        "assetid": "29983036538",
+        "market_hash_name": "Eyes in the Endless Dark - Serpent Wards"
+    },
+    {
+        "assetid": "29983023170",
+        "market_hash_name": "Bloodbird's Lament - Shoulder"
+    },
+    {
+        "assetid": "29979464426",
+        "market_hash_name": "Pixel Tusk Decoration"
+    },
+    {
+        "assetid": "29979629658",
+        "market_hash_name": "Crownfall Act III Loading Screen 10"
+    },
+    {
+        "assetid": "29963515842",
+        "market_hash_name": "Kite of Darkness - Armor"
+    },
+    {
+        "assetid": "29963515834",
+        "market_hash_name": "Kite of Darkness - Weapon"
+    },
+    {
+        "assetid": "29963515826",
+        "market_hash_name": "Kite of Darkness - Head"
+    },
+    {
+        "assetid": "29963515818",
+        "market_hash_name": "Kite of Darkness - Belt"
+    },
+    {
+        "assetid": "29963515810",
+        "market_hash_name": "Kite of Darkness Loading Screen"
+    },
+    {
+        "assetid": "29918184258",
+        "market_hash_name": "Inscribed Finblade"
+    },
+    {
+        "assetid": "29918184250",
+        "market_hash_name": "Inscribed Ancient Slithereen Basher"
+    },
+    {
+        "assetid": "29908692778",
+        "market_hash_name": "Meranth Executioner's Blade"
+    },
+    {
+        "assetid": "29867778178",
+        "market_hash_name": "Hammer of the Galvanized Spark"
+    },
+    {
+        "assetid": "29867778170",
+        "market_hash_name": "Striking Steed"
+    },
+    {
+        "assetid": "29867778162",
+        "market_hash_name": "Bracers of the Galvanized Spark"
+    },
+    {
+        "assetid": "29867778154",
+        "market_hash_name": "Tuner of the Galvanized Spark"
+    },
+    {
+        "assetid": "29867778146",
+        "market_hash_name": "Pauldrons of the Galvanized Spark"
+    },
+    {
+        "assetid": "29867778138",
+        "market_hash_name": "Mask of the Galvanized Spark"
+    },
+    {
+        "assetid": "29867778130",
+        "market_hash_name": "Bindings of the Galvanized Spark Loading Screen"
+    },
+    {
+        "assetid": "29862877914",
+        "market_hash_name": "The Arcanist's Guise"
+    },
+    {
+        "assetid": "29838738490",
+        "market_hash_name": "Champion's Belly Belt"
+    },
+    {
+        "assetid": "29833833690",
+        "market_hash_name": "Icebrew Angler"
+    },
+    {
+        "assetid": "29804513218",
+        "market_hash_name": "Hallowed Chest of the Diretide"
+    },
+    {
+        "assetid": "29780459522",
+        "market_hash_name": "Stonehall Royal Guard"
+    },
+    {
+        "assetid": "29780459514",
+        "market_hash_name": "Stonehall Royal Guard Pauldrons"
+    },
+    {
+        "assetid": "29780459506",
+        "market_hash_name": "Stonehall Royal Guard Helmet"
+    },
+    {
+        "assetid": "29780459498",
+        "market_hash_name": "Stonehall Royal Guard Dragonslayer"
+    },
+    {
+        "assetid": "29780459490",
+        "market_hash_name": "Stonehall Royal Guard Banners"
+    },
+    {
+        "assetid": "29780459482",
+        "market_hash_name": "Stonehall Royal Guard Arms"
+    },
+    {
+        "assetid": "29780458466",
+        "market_hash_name": "Smokestacks of the Boilerplate Bruiser"
+    },
+    {
+        "assetid": "29780458458",
+        "market_hash_name": "Coat of the Boilerplate Bruiser"
+    },
+    {
+        "assetid": "29780458450",
+        "market_hash_name": "Neck of the Boilerplate Bruiser"
+    },
+    {
+        "assetid": "29780458442",
+        "market_hash_name": "Off-Hand of the Boilerplate Bruiser"
+    },
+    {
+        "assetid": "29780458434",
+        "market_hash_name": "Weapons of the Boilerplate Bruiser"
+    },
+    {
+        "assetid": "29780458426",
+        "market_hash_name": "Arms of the Boilerplate Bruiser"
+    },
+    {
+        "assetid": "29780458418",
+        "market_hash_name": "Armor of the Boilerplate Bruiser"
+    },
+    {
+        "assetid": "29780458410",
+        "market_hash_name": "Loading Screen of the Boilerplate Bruiser"
+    },
+    {
+        "assetid": "29780457282",
+        "market_hash_name": "Garb of the Icebrew Angler"
+    },
+    {
+        "assetid": "29780457274",
+        "market_hash_name": "Arms of the Icebrew Angler"
+    },
+    {
+        "assetid": "29780457266",
+        "market_hash_name": "Head of the Icebrew Angler"
+    },
+    {
+        "assetid": "29780457258",
+        "market_hash_name": "Auger of the Icebrew Angler"
+    },
+    {
+        "assetid": "29780457250",
+        "market_hash_name": "Reel of the Icebrew Angler"
+    },
+    {
+        "assetid": "29780457242",
+        "market_hash_name": "Cask of the Icebrew Angler"
+    },
+    {
+        "assetid": "29780456050",
+        "market_hash_name": "Arms of the Iron Hog"
+    },
+    {
+        "assetid": "29780456042",
+        "market_hash_name": "Chopper of the Iron Hog"
+    },
+    {
+        "assetid": "29780456034",
+        "market_hash_name": "Axe of the Iron Hog"
+    },
+    {
+        "assetid": "29780456026",
+        "market_hash_name": "Shoulder of the Iron Hog"
+    },
+    {
+        "assetid": "29780456018",
+        "market_hash_name": "Face of the Iron Hog"
+    },
+    {
+        "assetid": "29780456010",
+        "market_hash_name": "Belt of the Iron Hog"
+    },
+    {
+        "assetid": "29780456002",
+        "market_hash_name": "Razors of the Iron Hog"
+    },
+    {
+        "assetid": "29780455994",
+        "market_hash_name": "Loading Screen of the Iron Hog"
+    },
+    {
+        "assetid": "29780454194",
+        "market_hash_name": "Weapon of the Seasoned Expeditionary"
+    },
+    {
+        "assetid": "29780454186",
+        "market_hash_name": "Head of the Seasoned Expeditionary"
+    },
+    {
+        "assetid": "29780454178",
+        "market_hash_name": "Shoulder of the Seasoned Expeditionary"
+    },
+    {
+        "assetid": "29780454170",
+        "market_hash_name": "Back of the Seasoned Expeditionary"
+    },
+    {
+        "assetid": "29780454162",
+        "market_hash_name": "Arms of the Seasoned Expeditionary"
+    },
+    {
+        "assetid": "29780449714",
+        "market_hash_name": "Staff of Gun-Yu"
+    },
+    {
+        "assetid": "29773476714",
+        "market_hash_name": "Glaive of the Azure Constellation"
+    },
+    {
+        "assetid": "29773476706",
+        "market_hash_name": "Azure Constellation HUD"
+    },
+    {
+        "assetid": "29773476698",
+        "market_hash_name": "Azure Constellation Loading Screen"
+    },
+    {
+        "assetid": "29773476690",
+        "market_hash_name": "Circlet of the Azure Constellation"
+    },
+    {
+        "assetid": "29773476682",
+        "market_hash_name": "Pauldrons of the Azure Constellation"
+    },
+    {
+        "assetid": "29773476674",
+        "market_hash_name": "Messenger of the Azure Constellation"
+    },
+    {
+        "assetid": "29773476666",
+        "market_hash_name": "Shield of the Azure Constellation"
+    },
+    {
+        "assetid": "29772910074",
+        "market_hash_name": "Nimble Ben"
+    },
+    {
+        "assetid": "29754490994",
+        "market_hash_name": "Demon Guise of the Vandal"
+    },
+    {
+        "assetid": "29741102170",
+        "market_hash_name": "Majesty of the Forbidden Sands Loadingscreen"
+    },
+    {
+        "assetid": "29741102162",
+        "market_hash_name": "Barbed Head of the Forbidden Sands"
+    },
+    {
+        "assetid": "29741102154",
+        "market_hash_name": "Shoulders of the Forbidden Sands"
+    },
+    {
+        "assetid": "29741102146",
+        "market_hash_name": "Legs of the Forbidden Sands"
+    },
+    {
+        "assetid": "29741102138",
+        "market_hash_name": "Claws of the Forbidden Sands"
+    },
+    {
+        "assetid": "29741102130",
+        "market_hash_name": "Tail of the Forbidden Sands"
+    },
+    {
+        "assetid": "29694802618",
+        "market_hash_name": "Griffin Knight - Dragon Form"
+    },
+    {
+        "assetid": "29694802610",
+        "market_hash_name": "Griffin Knight - Arms"
+    },
+    {
+        "assetid": "29694802602",
+        "market_hash_name": "Griffin Knight - Back"
+    },
+    {
+        "assetid": "29694802594",
+        "market_hash_name": "Griffin Knight - Head"
+    },
+    {
+        "assetid": "29694802586",
+        "market_hash_name": "Griffin Knight - Shield"
+    },
+    {
+        "assetid": "29694790410",
+        "market_hash_name": "Pixel Axe Decoration"
+    },
+    {
+        "assetid": "29694802578",
+        "market_hash_name": "Griffin Knight - Shoulder"
+    },
+    {
+        "assetid": "29694802570",
+        "market_hash_name": "Griffin Knight - Weapon"
+    },
+    {
+        "assetid": "29694790418",
+        "market_hash_name": "Pixel Sorla Khan Decoration"
+    },
+    {
+        "assetid": "29666515258",
+        "market_hash_name": "The Eyes of the King"
+    },
+    {
+        "assetid": "29666507546",
+        "market_hash_name": "Pixel Debb'ra Decoration"
+    },
+    {
+        "assetid": "29666507498",
+        "market_hash_name": "Pixel Centaur Warrunner Decoration"
+    },
+    {
+        "assetid": "30591642050",
+        "market_hash_name": "Heroic Effigy of Omexe"
+    },
+    {
+        "assetid": "29694801250",
+        "market_hash_name": "Graxx's Strap"
+    },
+    {
+        "assetid": "29666154994",
+        "market_hash_name": "Griffin Knight - Toxic Frostburn Weapon"
+    },
+    {
+        "assetid": "29662568506",
+        "market_hash_name": "True Crow's Bite"
+    },
+    {
+        "assetid": "29662568498",
+        "market_hash_name": "True Crow's Ward"
+    },
+    {
+        "assetid": "29662568490",
+        "market_hash_name": "True Crow's Talon"
+    },
+    {
+        "assetid": "29662568482",
+        "market_hash_name": "True Crow's Vision"
+    },
+    {
+        "assetid": "29662568474",
+        "market_hash_name": "True Crow's Pelt"
+    },
+    {
+        "assetid": "29662568466",
+        "market_hash_name": "True Crow's Wings"
+    },
+    {
+        "assetid": "29662568458",
+        "market_hash_name": "True Crow Loading Screen"
+    },
+    {
+        "assetid": "29662269562",
+        "market_hash_name": "Arm Guards of Prosperity"
+    },
+    {
+        "assetid": "29662269522",
+        "market_hash_name": "Plated Bracers of the Demon Stone"
+    },
+    {
+        "assetid": "29662269514",
+        "market_hash_name": "Necklace of the Demon Stone"
+    },
+    {
+        "assetid": "29662269498",
+        "market_hash_name": "Gifts of Fortune"
+    },
+    {
+        "assetid": "29662269482",
+        "market_hash_name": "Scale Pauldrons of Good Fortune"
+    },
+    {
+        "assetid": "29662269626",
+        "market_hash_name": "Three Virtues"
+    },
+    {
+        "assetid": "29662269610",
+        "market_hash_name": "Flames of Prosperity"
+    },
+    {
+        "assetid": "29662269602",
+        "market_hash_name": "Ember Pauldrons of Prosperity"
+    },
+    {
+        "assetid": "29662269594",
+        "market_hash_name": "Huo - Blade of Prosperity"
+    },
+    {
+        "assetid": "29662269586",
+        "market_hash_name": "Jin - Blade of Prosperity"
+    },
+    {
+        "assetid": "29662269554",
+        "market_hash_name": "Plackart of the Demon Stone"
+    },
+    {
+        "assetid": "29662269546",
+        "market_hash_name": "Strength of the Demon Stone"
+    },
+    {
+        "assetid": "29662269530",
+        "market_hash_name": "Staff of the Demon Stone"
+    },
+    {
+        "assetid": "29662269618",
+        "market_hash_name": "The Auspicious Season"
+    },
+    {
+        "assetid": "29662269578",
+        "market_hash_name": "Phoenix Helm of Prosperity"
+    },
+    {
+        "assetid": "29662269506",
+        "market_hash_name": "Mane of the Demon Stone"
+    },
+    {
+        "assetid": "29662269490",
+        "market_hash_name": "Ornate Hat of Good Fortune"
+    },
+    {
+        "assetid": "29662269634",
+        "market_hash_name": "Festive Robes of Good Fortune"
+    },
+    {
+        "assetid": "29662269570",
+        "market_hash_name": "Crimson Guard of Prosperity"
+    },
+    {
+        "assetid": "29662269538",
+        "market_hash_name": "Warriors of the Demon Stone"
+    },
+    {
+        "assetid": "29662251882",
+        "market_hash_name": "Pixel Legion Commander Decoration"
+    },
+    {
+        "assetid": "29661367450",
+        "market_hash_name": "Griffin Knight - Toxic Frostburn Helm"
+    },
+    {
+        "assetid": "29666524538",
+        "market_hash_name": "Crownfall Act II Loading Screen 7"
+    },
+    {
+        "assetid": "29659169282",
+        "market_hash_name": "Vines of Twisted Wisdom"
+    },
+    {
+        "assetid": "29659169274",
+        "market_hash_name": "Tail of Twisted Wisdom"
+    },
+    {
+        "assetid": "29659169266",
+        "market_hash_name": "Horns of Twisted Wisdom"
+    },
+    {
+        "assetid": "29659174346",
+        "market_hash_name": "Inscribed Tormented Staff"
+    },
+    {
+        "assetid": "29659169258",
+        "market_hash_name": "Armor of Twisted Wisdom"
+    },
+    {
+        "assetid": "29656732570",
+        "market_hash_name": "Spina Infernalis - Head"
+    },
+    {
+        "assetid": "29656732562",
+        "market_hash_name": "Spina Infernalis - Shoulders"
+    },
+    {
+        "assetid": "29656732554",
+        "market_hash_name": "Spina Infernalis - Arms"
+    },
+    {
+        "assetid": "29656733850",
+        "market_hash_name": "Crownfall Act II Loading Screen 3"
+    },
+    {
+        "assetid": "29656732546",
+        "market_hash_name": "Spina Infernalis - Legs"
+    },
+    {
+        "assetid": "29650191146",
+        "market_hash_name": "Pixel Mortimer Decoration"
+    },
+    {
+        "assetid": "29650191138",
+        "market_hash_name": "Pixel Snapfire Decoration"
+    },
+    {
+        "assetid": "29650191130",
+        "market_hash_name": "Pixel Disruptor Decoration"
+    },
+    {
+        "assetid": "29650197090",
+        "market_hash_name": "Crownfall Act II Loading Screen 8"
+    },
+    {
+        "assetid": "29649912754",
+        "market_hash_name": "Song of the Sea Lotus - Tail"
+    },
+    {
+        "assetid": "29649912746",
+        "market_hash_name": "Song of the Sea Lotus - Offhand Weapon"
+    },
+    {
+        "assetid": "29649912738",
+        "market_hash_name": "Song of the Sea Lotus - Weapon"
+    },
+    {
+        "assetid": "29649912730",
+        "market_hash_name": "Song of the Sea Lotus - Armor"
+    },
+    {
+        "assetid": "29649912722",
+        "market_hash_name": "Song of the Sea Lotus - Head"
+    },
+    {
+        "assetid": "29649915866",
+        "market_hash_name": "Crownfall Act II Loading Screen 10"
+    },
+    {
+        "assetid": "29646622738",
+        "market_hash_name": "Verdant Swarm - Head"
+    },
+    {
+        "assetid": "29646622730",
+        "market_hash_name": "Verdant Swarm - Treant"
+    },
+    {
+        "assetid": "29646622722",
+        "market_hash_name": "Verdant Swarm - Weapon"
+    },
+    {
+        "assetid": "29646622714",
+        "market_hash_name": "Verdant Swarm - Back"
+    },
+    {
+        "assetid": "29646622706",
+        "market_hash_name": "Verdant Swarm - Shoulder"
+    },
+    {
+        "assetid": "29646622698",
+        "market_hash_name": "Verdant Swarm - Arms"
+    },
+    {
+        "assetid": "29646611826",
+        "market_hash_name": "Pixel Warlock Golem Decoration"
+    },
+    {
+        "assetid": "29646611802",
+        "market_hash_name": "Pixel Warlock Decoration"
+    },
+    {
+        "assetid": "29646622690",
+        "market_hash_name": "Verdant Swarm - Neck"
+    },
+    {
+        "assetid": "29646605642",
+        "market_hash_name": "Griffin Knight - Toxic Frostburn Shield"
+    },
+    {
+        "assetid": "29645106178",
+        "market_hash_name": "Crownfall Act II Loading Screen 6"
+    },
+    {
+        "assetid": "29645064106",
+        "market_hash_name": "Highborn Heretic - Belt"
+    },
+    {
+        "assetid": "29645064098",
+        "market_hash_name": "Highborn Heretic - Back"
+    },
+    {
+        "assetid": "29645064090",
+        "market_hash_name": "Highborn Heretic - Arms"
+    },
+    {
+        "assetid": "29645064082",
+        "market_hash_name": "Highborn Heretic - Head"
+    },
+    {
+        "assetid": "29645064074",
+        "market_hash_name": "Highborn Heretic - Shoulder"
+    },
+    {
+        "assetid": "29645054106",
+        "market_hash_name": "Pixel Bat Decoration"
+    },
+    {
+        "assetid": "29645054082",
+        "market_hash_name": "Pixel Batrider Decoration"
+    },
+    {
+        "assetid": "29645064066",
+        "market_hash_name": "Highborn Heretic - Weapon"
+    },
+    {
+        "assetid": "29638115610",
+        "market_hash_name": "Robe of the Cruel Magician"
+    },
+    {
+        "assetid": "29638115602",
+        "market_hash_name": "Mantle of the Cruel Magician"
+    },
+    {
+        "assetid": "29638115594",
+        "market_hash_name": "Hood of the Cruel Magician"
+    },
+    {
+        "assetid": "29638112746",
+        "market_hash_name": "Wraps of a Thousand Faces"
+    },
+    {
+        "assetid": "29638112738",
+        "market_hash_name": "Akakiryu of a Thousand Faces"
+    },
+    {
+        "assetid": "29638112730",
+        "market_hash_name": "Hakama of a Thousand Faces"
+    },
+    {
+        "assetid": "29638112722",
+        "market_hash_name": "Kataginu of a Thousand Faces"
+    },
+    {
+        "assetid": "29638111330",
+        "market_hash_name": "Eye of the Beholder Loading Screen"
+    },
+    {
+        "assetid": "29638111322",
+        "market_hash_name": "Tail of the Beholder"
+    },
+    {
+        "assetid": "29638111314",
+        "market_hash_name": "Helm of the Beholder"
+    },
+    {
+        "assetid": "29638111306",
+        "market_hash_name": "Bracers of the Beholder"
+    },
+    {
+        "assetid": "29638111298",
+        "market_hash_name": "Armor of the Beholder"
+    },
+    {
+        "assetid": "29638110754",
+        "market_hash_name": "The Tail Bash"
+    },
+    {
+        "assetid": "29638110746",
+        "market_hash_name": "Helm of Tarrasque"
+    },
+    {
+        "assetid": "29638110738",
+        "market_hash_name": "Scavenger of Basilisk Loading Screen"
+    },
+    {
+        "assetid": "29638110730",
+        "market_hash_name": "Hook of the Basilisk"
+    },
+    {
+        "assetid": "29638110722",
+        "market_hash_name": "Pauldrones of the Basilisk"
+    },
+    {
+        "assetid": "29638110714",
+        "market_hash_name": "Belt of the Basilisk"
+    },
+    {
+        "assetid": "29638110706",
+        "market_hash_name": "Spine of the Basilisk"
+    },
+    {
+        "assetid": "29638108842",
+        "market_hash_name": "Staff of Winter's Warden"
+    },
+    {
+        "assetid": "29638108834",
+        "market_hash_name": "Arms of Winter's Warden"
+    },
+    {
+        "assetid": "29638108826",
+        "market_hash_name": "Helm of Winter's Warden"
+    },
+    {
+        "assetid": "29638108818",
+        "market_hash_name": "Skirt of Winter's Warden"
+    },
+    {
+        "assetid": "29638115586",
+        "market_hash_name": "Staff of the Cruel Magician"
+    },
+    {
+        "assetid": "29638111290",
+        "market_hash_name": "Bow of the Beholder"
+    },
+    {
+        "assetid": "29638112714",
+        "market_hash_name": "Mask of a Thousand Faces"
+    },
+    {
+        "assetid": "29638110698",
+        "market_hash_name": "Armlet of the Basilisk"
+    },
+    {
+        "assetid": "29638108810",
+        "market_hash_name": "Mantle of Winter's Warden"
+    },
+    {
+        "assetid": "29641912290",
+        "market_hash_name": "Crownfall Act II Loading Screen 4"
+    },
+    {
+        "assetid": "29635014794",
+        "market_hash_name": "Hair of the Arsenal Magus"
+    },
+    {
+        "assetid": "29606151890",
+        "market_hash_name": "Crownfall Act II Loading Screen 2"
+    },
+    {
+        "assetid": "29601258786",
+        "market_hash_name": "Steam Chopper Cursor Pack"
+    },
+    {
+        "assetid": "29601258778",
+        "market_hash_name": "Steam Chopper Loading Screen"
+    },
+    {
+        "assetid": "29601258770",
+        "market_hash_name": "Cockpit of the Steam Chopper"
+    },
+    {
+        "assetid": "29601258762",
+        "market_hash_name": "Reactive Armor of the Steam Chopper"
+    },
+    {
+        "assetid": "29601258754",
+        "market_hash_name": "Saw of the Steam Chopper"
+    },
+    {
+        "assetid": "29601258746",
+        "market_hash_name": "Pauldrons of the Steam Chopper"
+    },
+    {
+        "assetid": "29601258738",
+        "market_hash_name": "Claw of the Steam Chopper"
+    },
+    {
+        "assetid": "29601258730",
+        "market_hash_name": "Top Hat of the Steam Chopper"
+    },
+    {
+        "assetid": "29593007042",
+        "market_hash_name": "Tome of Infinite Terror - Shoulder"
+    },
+    {
+        "assetid": "29593007034",
+        "market_hash_name": "Tome of Infinite Terror - Arms"
+    },
+    {
+        "assetid": "29593007026",
+        "market_hash_name": "Tome of Infinite Terror - Back"
+    },
+    {
+        "assetid": "29593007018",
+        "market_hash_name": "Tome of Infinite Terror - Head"
+    },
+    {
+        "assetid": "29592994482",
+        "market_hash_name": "Songs of the Caravan Music Pack"
+    },
+    {
+        "assetid": "29592610474",
+        "market_hash_name": "Emerald Conquest"
+    },
+    {
+        "assetid": "29589578210",
+        "market_hash_name": "Dark Reef Escape Loading Screen"
+    },
+    {
+        "assetid": "29589578202",
+        "market_hash_name": "Shark Fin Cape"
+    },
+    {
+        "assetid": "29589578194",
+        "market_hash_name": "Bound Shark Flippers"
+    },
+    {
+        "assetid": "29589578186",
+        "market_hash_name": "Shark Cowl"
+    },
+    {
+        "assetid": "29589578178",
+        "market_hash_name": "Prison Shank"
+    },
+    {
+        "assetid": "29589578170",
+        "market_hash_name": "Prison Buckler"
+    },
+    {
+        "assetid": "29592612914",
+        "market_hash_name": "Crownfall Act II Loading Screen 1"
+    },
+    {
+        "assetid": "29592613098",
+        "market_hash_name": "Crownfall Act II Loading Screen 5"
+    },
+    {
+        "assetid": "29572272666",
+        "market_hash_name": "Crownfall Act II Loading Screen 9"
+    },
+    {
+        "assetid": "29548743826",
+        "market_hash_name": "Atrophic Skitterwing"
+    },
+    {
+        "assetid": "29547097418",
+        "market_hash_name": "Breastplate of the Fathomless Ravager"
+    },
+    {
+        "assetid": "29547097410",
+        "market_hash_name": "Claws of the Fathomless Ravager"
+    },
+    {
+        "assetid": "29547097402",
+        "market_hash_name": "Helm of the Fathomless Ravager"
+    },
+    {
+        "assetid": "29546892858",
+        "market_hash_name": "Sovereign of the Colossal Blades"
+    },
+    {
+        "assetid": "29546892850",
+        "market_hash_name": "Sovereign of the Menacing Guise"
+    },
+    {
+        "assetid": "29546892842",
+        "market_hash_name": "Inscribed Sovereign of the Exocorp"
+    },
+    {
+        "assetid": "29546892042",
+        "market_hash_name": "Armature of the Belligerent Ram Shoulder"
+    },
+    {
+        "assetid": "29546892034",
+        "market_hash_name": "Armature of the Belligerent Ram Pauldron"
+    },
+    {
+        "assetid": "29546892026",
+        "market_hash_name": "Armature of the Belligerent Ram Sword"
+    },
+    {
+        "assetid": "29546892018",
+        "market_hash_name": "Armature of the Belligerent Ram Loading Screen"
+    },
+    {
+        "assetid": "29546892010",
+        "market_hash_name": "Armature of the Belligerent Ram Helm"
+    },
+    {
+        "assetid": "29546892002",
+        "market_hash_name": "Armature of the Belligerent Ram Glove"
+    },
+    {
+        "assetid": "29546891994",
+        "market_hash_name": "Armature of the Belligerent Ram Belt"
+    },
+    {
+        "assetid": "29546892834",
+        "market_hash_name": "Sovereign of the Hive Loading Screen"
+    },
+    {
+        "assetid": "29544935442",
+        "market_hash_name": "The Eye Fountain"
+    },
+    {
+        "assetid": "29534018562",
+        "market_hash_name": "Viridus Claw"
+    },
+    {
+        "assetid": "29486496218",
+        "market_hash_name": "Coral the Furryfish"
+    },
+    {
+        "assetid": "29470051674",
+        "market_hash_name": "Sea Dragon's Armlet"
+    },
+    {
+        "assetid": "29363891850",
+        "market_hash_name": "Ruby-ridged Recluse"
+    },
+    {
+        "assetid": "29359571682",
+        "market_hash_name": "Shearing Deposition"
+    },
+    {
+        "assetid": "29358096338",
+        "market_hash_name": "Artificer's Hammer"
+    },
+    {
+        "assetid": "29358081218",
+        "market_hash_name": "Errant Soldier Loading Screen"
+    },
+    {
+        "assetid": "29358081210",
+        "market_hash_name": "Spear of the Errant Soldier"
+    },
+    {
+        "assetid": "29358081178",
+        "market_hash_name": "Bracers of the Errant Soldier"
+    },
+    {
+        "assetid": "29358081202",
+        "market_hash_name": "Pauldrons of the Errant Soldier"
+    },
+    {
+        "assetid": "29358097282",
+        "market_hash_name": "Cowl of the Errant Soldier"
+    },
+    {
+        "assetid": "29342686890",
+        "market_hash_name": "Shattertooth"
+    },
+    {
+        "assetid": "29342686882",
+        "market_hash_name": "Rider's Eclipse Pauldrons"
+    },
+    {
+        "assetid": "29342686874",
+        "market_hash_name": "Rider's Eclipse Helm"
+    },
+    {
+        "assetid": "29342686866",
+        "market_hash_name": "Rider's Eclipse Loading Screen"
+    },
+    {
+        "assetid": "29342686858",
+        "market_hash_name": "Inscribed Rider's Eclipse Glaive"
+    },
+    {
+        "assetid": "29342673882",
+        "market_hash_name": "Beard of the Scourge Dominion"
+    },
+    {
+        "assetid": "29342673874",
+        "market_hash_name": "Crown of the Scourge Dominion"
+    },
+    {
+        "assetid": "29342673866",
+        "market_hash_name": "Scourge Dominion Loading Screen"
+    },
+    {
+        "assetid": "29342673858",
+        "market_hash_name": "Mantle of the Scourge Dominion"
+    },
+    {
+        "assetid": "29342486530",
+        "market_hash_name": "Sanguine Royalty Loading Screen"
+    },
+    {
+        "assetid": "29342486522",
+        "market_hash_name": "Crimson Agony"
+    },
+    {
+        "assetid": "29342486514",
+        "market_hash_name": "Crown of Sanguine Royalty"
+    },
+    {
+        "assetid": "29342486506",
+        "market_hash_name": "Vestments of Sanguine Royalty"
+    },
+    {
+        "assetid": "29342470658",
+        "market_hash_name": "Penumbral Shawl"
+    },
+    {
+        "assetid": "29342470634",
+        "market_hash_name": "Penumbral Cloak"
+    },
+    {
+        "assetid": "29342470666",
+        "market_hash_name": "Penumbral Warblade"
+    },
+    {
+        "assetid": "29342470650",
+        "market_hash_name": "Penumbral Hood"
+    },
+    {
+        "assetid": "29342686850",
+        "market_hash_name": "Rider's Eclipse Shield"
+    },
+    {
+        "assetid": "29342486498",
+        "market_hash_name": "Wings of Royal Ascension"
+    },
+    {
+        "assetid": "29342673850",
+        "market_hash_name": "Scythe of the Scourge Dominion"
+    },
+    {
+        "assetid": "29358153122",
+        "market_hash_name": "Edict of Shadows"
+    },
+    {
+        "assetid": "29358081186",
+        "market_hash_name": "Standards of the Errant Soldier"
+    },
+    {
+        "assetid": "29358165482",
+        "market_hash_name": "Bracers of the Cavern Luminar"
+    },
+    {
+        "assetid": "29342470642",
+        "market_hash_name": "Penumbral Crest"
+    },
+    {
+        "assetid": "29337128738",
+        "market_hash_name": "Hare Hunt Shoulders"
+    },
+    {
+        "assetid": "29330981858",
+        "market_hash_name": "Morcant"
+    },
+    {
+        "assetid": "29330981850",
+        "market_hash_name": "Starlight Quiver"
+    },
+    {
+        "assetid": "29330981842",
+        "market_hash_name": "Starlight Finery"
+    },
+    {
+        "assetid": "29330981834",
+        "market_hash_name": "Starlight Dress"
+    },
+    {
+        "assetid": "29330981826",
+        "market_hash_name": "Starlight Bow"
+    },
+    {
+        "assetid": "29330981818",
+        "market_hash_name": "Starlight Band"
+    },
+    {
+        "assetid": "29330981242",
+        "market_hash_name": "Resentment of the Banished Princess Loading Screen"
+    },
+    {
+        "assetid": "29330981234",
+        "market_hash_name": "Weapon of the Banished Princess"
+    },
+    {
+        "assetid": "29330981226",
+        "market_hash_name": "Style of the Banished Princess"
+    },
+    {
+        "assetid": "29330981218",
+        "market_hash_name": "Leggings of the Banished Princess"
+    },
+    {
+        "assetid": "29330981002",
+        "market_hash_name": "Dreadhawk Armor Loading Screen"
+    },
+    {
+        "assetid": "29330980994",
+        "market_hash_name": "Dreadhawk Harness"
+    },
+    {
+        "assetid": "29330980986",
+        "market_hash_name": "Dreadhawk Leggings"
+    },
+    {
+        "assetid": "29330980978",
+        "market_hash_name": "Dreadhawk Headdress"
+    },
+    {
+        "assetid": "29330981210",
+        "market_hash_name": "Cape of the Banished Princess"
+    },
+    {
+        "assetid": "29330981810",
+        "market_hash_name": "Starlight Armguards"
+    },
+    {
+        "assetid": "29317768930",
+        "market_hash_name": "Spying Toadstool"
+    },
+    {
+        "assetid": "29317733818",
+        "market_hash_name": "Imperial Ember - Crown"
+    },
+    {
+        "assetid": "29317733810",
+        "market_hash_name": "Imperial Ember - Neck"
+    },
+    {
+        "assetid": "29317733802",
+        "market_hash_name": "Imperial Ember - Belt"
+    },
+    {
+        "assetid": "29317728794",
+        "market_hash_name": "Pixel Juggernaut Decoration"
+    },
+    {
+        "assetid": "29317733794",
+        "market_hash_name": "Imperial Ember - Arms"
+    },
+    {
+        "assetid": "29316737746",
+        "market_hash_name": "Wyrdwing Exaltation - Style Unlock I"
+    },
+    {
+        "assetid": "29314485066",
+        "market_hash_name": "Pixel Meepo Decoration"
+    },
+    {
+        "assetid": "29314482866",
+        "market_hash_name": "Wyrdwing Exaltation - Style Unlock II"
+    },
+    {
+        "assetid": "29314489730",
+        "market_hash_name": "Twitcher - Weapon"
+    },
+    {
+        "assetid": "29314489722",
+        "market_hash_name": "Twitcher - Shoulder"
+    },
+    {
+        "assetid": "29314489714",
+        "market_hash_name": "Twitcher - Offhand Weapon"
+    },
+    {
+        "assetid": "29314489706",
+        "market_hash_name": "Twitcher - Head"
+    },
+    {
+        "assetid": "29314489698",
+        "market_hash_name": "Twitcher - Back"
+    },
+    {
+        "assetid": "29311664602",
+        "market_hash_name": "Crownfall Act I Loading Screen 2"
+    },
+    {
+        "assetid": "29309391290",
+        "market_hash_name": "Raven of Ristul - Back"
+    },
+    {
+        "assetid": "29309391282",
+        "market_hash_name": "Raven of Ristul - Head"
+    },
+    {
+        "assetid": "29309391274",
+        "market_hash_name": "Raven of Ristul - Shoulder"
+    },
+    {
+        "assetid": "29309391266",
+        "market_hash_name": "Raven of Ristul - Weapon"
+    },
+    {
+        "assetid": "29309238058",
+        "market_hash_name": "Shroom Thing"
+    },
+    {
+        "assetid": "29309238050",
+        "market_hash_name": "Staff of the Fungal Lord"
+    },
+    {
+        "assetid": "29309238042",
+        "market_hash_name": "Shoulders of the Fungal Lord"
+    },
+    {
+        "assetid": "29309238034",
+        "market_hash_name": "Ironwood Arms of the Fungal Lord"
+    },
+    {
+        "assetid": "29309238026",
+        "market_hash_name": "Great Moss Cape of the Fungal Lord"
+    },
+    {
+        "assetid": "29309238018",
+        "market_hash_name": "Cap of the Fungal Lord"
+    },
+    {
+        "assetid": "29309237482",
+        "market_hash_name": "Cape of the Brinebred Cavalier"
+    },
+    {
+        "assetid": "29309237474",
+        "market_hash_name": "Crown of the Brinebred Cavalier"
+    },
+    {
+        "assetid": "29309237466",
+        "market_hash_name": "Steed of the Brinebred Cavalier"
+    },
+    {
+        "assetid": "29309237458",
+        "market_hash_name": "Sword of the Brinebred Cavalier"
+    },
+    {
+        "assetid": "29309237122",
+        "market_hash_name": "Staff of Divine Ascension"
+    },
+    {
+        "assetid": "29309237114",
+        "market_hash_name": "Wings of Divine Ascension"
+    },
+    {
+        "assetid": "29309237106",
+        "market_hash_name": "Mantle of Divine Ascension"
+    },
+    {
+        "assetid": "29309237098",
+        "market_hash_name": "Helm of Divine Ascension"
+    },
+    {
+        "assetid": "29309237090",
+        "market_hash_name": "Cuffs of Divine Ascension"
+    },
+    {
+        "assetid": "29309236858",
+        "market_hash_name": "Shield of Eternal Eclipse"
+    },
+    {
+        "assetid": "29309236850",
+        "market_hash_name": "Noriet the Dusky Guardian"
+    },
+    {
+        "assetid": "29309236842",
+        "market_hash_name": "Helm of Eternal Eclipse"
+    },
+    {
+        "assetid": "29309236834",
+        "market_hash_name": "Blades of Eternal Eclipse"
+    },
+    {
+        "assetid": "29309236706",
+        "market_hash_name": "Dead Reborn Loading Screen"
+    },
+    {
+        "assetid": "29309236698",
+        "market_hash_name": "Shoulder of the Dead Reborn"
+    },
+    {
+        "assetid": "29309236690",
+        "market_hash_name": "Crown of the Dead Reborn"
+    },
+    {
+        "assetid": "29309236682",
+        "market_hash_name": "Cape of the Dead Reborn"
+    },
+    {
+        "assetid": "29309236674",
+        "market_hash_name": "Bracers of the Dead Reborn"
+    },
+    {
+        "assetid": "29309236034",
+        "market_hash_name": "Hatchet of the Trapper"
+    },
+    {
+        "assetid": "29309236026",
+        "market_hash_name": "Bindings of the Trapper Loading Screen"
+    },
+    {
+        "assetid": "29309236018",
+        "market_hash_name": "Steel Jaw of the Trapper"
+    },
+    {
+        "assetid": "29309236010",
+        "market_hash_name": "Eviscerating Claw of the Trapper"
+    },
+    {
+        "assetid": "29309236002",
+        "market_hash_name": "Hunter's Jacket of the Trapper"
+    },
+    {
+        "assetid": "29309235994",
+        "market_hash_name": "Gauntlet of the Trapper"
+    },
+    {
+        "assetid": "29309235986",
+        "market_hash_name": "Trophy Belt of the Trapper"
+    },
+    {
+        "assetid": "29309235834",
+        "market_hash_name": "Crystals of the Violent Precipitate"
+    },
+    {
+        "assetid": "29309235826",
+        "market_hash_name": "Bracers of the Violent Precipitate"
+    },
+    {
+        "assetid": "29309235818",
+        "market_hash_name": "Helm of the Violent Precipitate"
+    },
+    {
+        "assetid": "29309235810",
+        "market_hash_name": "Lantern of the Violent Precipitate"
+    },
+    {
+        "assetid": "29309235802",
+        "market_hash_name": "Flail of the Violent Precipitate"
+    },
+    {
+        "assetid": "29309235978",
+        "market_hash_name": "Bone Crusher of the Trapper"
+    },
+    {
+        "assetid": "29309236666",
+        "market_hash_name": "Blade of the Dead Reborn"
+    },
+    {
+        "assetid": "29309236826",
+        "market_hash_name": "Armor of Eternal Eclipse"
+    },
+    {
+        "assetid": "29309237082",
+        "market_hash_name": "Sash of Divine Ascension"
+    },
+    {
+        "assetid": "29309237450",
+        "market_hash_name": "Pauldrons of the Brinebred Cavalier"
+    },
+    {
+        "assetid": "29309238010",
+        "market_hash_name": "Wild Moss Beard of the Fungal Lord"
+    },
+    {
+        "assetid": "29308383578",
+        "market_hash_name": "Wyrdwing Exaltation - Arms"
+    },
+    {
+        "assetid": "29308383570",
+        "market_hash_name": "Wyrdwing Exaltation - Belt"
+    },
+    {
+        "assetid": "29308383562",
+        "market_hash_name": "Wyrdwing Exaltation - Head"
+    },
+    {
+        "assetid": "29308383554",
+        "market_hash_name": "Wyrdwing Exaltation - Shoulder"
+    },
+    {
+        "assetid": "29308383546",
+        "market_hash_name": "Wyrdwing Exaltation - Loading Screen"
+    },
+    {
+        "assetid": "29308380082",
+        "market_hash_name": "Pixel Bounty Hunter Decoration"
+    },
+    {
+        "assetid": "29308380050",
+        "market_hash_name": "Pixel Scree'Auk Decoration"
+    },
+    {
+        "assetid": "29308383538",
+        "market_hash_name": "Wyrdwing Exaltation - Wings"
+    },
+    {
+        "assetid": "29308380106",
+        "market_hash_name": "Pixel Skywrath Guard Decoration"
+    },
+    {
+        "assetid": "29308377490",
+        "market_hash_name": "Flight of the Gryphon Lord - Belt"
+    },
+    {
+        "assetid": "29308377482",
+        "market_hash_name": "Flight of the Gryphon Lord - Head"
+    },
+    {
+        "assetid": "29308377474",
+        "market_hash_name": "Flight of the Gryphon Lord - Mount"
+    },
+    {
+        "assetid": "29308377466",
+        "market_hash_name": "Flight of the Gryphon Lord - Weapon"
+    },
+    {
+        "assetid": "29308377458",
+        "market_hash_name": "Flight of the Gryphon Lord - Loading Screen"
+    },
+    {
+        "assetid": "29302943258",
+        "market_hash_name": "Pixel Riki Decoration"
+    },
+    {
+        "assetid": "29302943074",
+        "market_hash_name": "Shifty's Shortblade"
+    },
+    {
+        "assetid": "29302260322",
+        "market_hash_name": "Crownfall Act I Loading Screen 3"
+    },
+    {
+        "assetid": "29302028314",
+        "market_hash_name": "Wyrdwing Exaltation - Style Unlock III"
+    },
+    {
+        "assetid": "29301601746",
+        "market_hash_name": "Legacy of the Awakened"
+    },
+    {
+        "assetid": "29301601738",
+        "market_hash_name": "Words of the Awakened"
+    },
+    {
+        "assetid": "29301601730",
+        "market_hash_name": "Shroud of the Awakened"
+    },
+    {
+        "assetid": "29301601722",
+        "market_hash_name": "Shard of Vengeance"
+    },
+    {
+        "assetid": "29301601714",
+        "market_hash_name": "Shard of Retribution"
+    },
+    {
+        "assetid": "29301601706",
+        "market_hash_name": "Leggings of the Awakened"
+    },
+    {
+        "assetid": "29301601698",
+        "market_hash_name": "Gift of the Awakened"
+    },
+    {
+        "assetid": "29301586730",
+        "market_hash_name": "Viridus Leggings"
+    },
+    {
+        "assetid": "29301586738",
+        "market_hash_name": "Viridus Spine"
+    },
+    {
+        "assetid": "29301586722",
+        "market_hash_name": "Viridus Claw"
+    },
+    {
+        "assetid": "29301582146",
+        "market_hash_name": "Venomous Deathbringer Loading Screen"
+    },
+    {
+        "assetid": "29301582122",
+        "market_hash_name": "Venomous Deathbringer Tail"
+    },
+    {
+        "assetid": "29301582130",
+        "market_hash_name": "Venomous Deathbringer Hood"
+    },
+    {
+        "assetid": "29301582114",
+        "market_hash_name": "Venomous Deathbringer Stingers"
+    },
+    {
+        "assetid": "29301582106",
+        "market_hash_name": "Venomous Deathbringer Head"
+    },
+    {
+        "assetid": "29301582138",
+        "market_hash_name": "Venomous Deathbringer Ward"
+    },
+    {
+        "assetid": "29301601690",
+        "market_hash_name": "Bracers of the Awakened"
+    },
+    {
+        "assetid": "29301586746",
+        "market_hash_name": "Viridus Crusher"
+    },
+    {
+        "assetid": "29299634514",
+        "market_hash_name": "Phalanx of the Bronze Eagle - Arms"
+    },
+    {
+        "assetid": "29299634506",
+        "market_hash_name": "Phalanx of the Bronze Eagle - Back"
+    },
+    {
+        "assetid": "29358099274",
+        "market_hash_name": "Inscribed Phalanx of the Bronze Eagle - Wearable"
+    },
+    {
+        "assetid": "29299634490",
+        "market_hash_name": "Phalanx of the Bronze Eagle - Legs"
+    },
+    {
+        "assetid": "29299634482",
+        "market_hash_name": "Phalanx of the Bronze Eagle - Shoulder"
+    },
+    {
+        "assetid": "29299621794",
+        "market_hash_name": "Crownfall - Dire Siege Creeps"
+    },
+    {
+        "assetid": "29299621786",
+        "market_hash_name": "Crownfall - Radiant Siege Creeps"
+    },
+    {
+        "assetid": "29299621778",
+        "market_hash_name": "Crownfall - Dire Creeps"
+    },
+    {
+        "assetid": "29299621770",
+        "market_hash_name": "Crownfall - Radiant Creeps"
+    },
+    {
+        "assetid": "29299612730",
+        "market_hash_name": "El Gato"
+    },
+    {
+        "assetid": "29299607034",
+        "market_hash_name": "Pixel Bakeet Decoration"
+    },
+    {
+        "assetid": "29298677698",
+        "market_hash_name": "Lord of the Scouring Dunes Loading Screen"
+    },
+    {
+        "assetid": "29298677682",
+        "market_hash_name": "Shoulder of the Scouring Dunes"
+    },
+    {
+        "assetid": "29298677674",
+        "market_hash_name": "Legs of the Scouring Dunes"
+    },
+    {
+        "assetid": "29298677658",
+        "market_hash_name": "Arms of the Scouring Dunes"
+    },
+    {
+        "assetid": "29298677666",
+        "market_hash_name": "Head of the Scouring Dunes"
+    },
+    {
+        "assetid": "29298422402",
+        "market_hash_name": "Crownfall Act I Loading Screen 1"
+    },
+    {
+        "assetid": "29298677690",
+        "market_hash_name": "Tail of the Scouring Dunes"
+    },
+    {
+        "assetid": "29285400626",
+        "market_hash_name": "Bantam Blaze - Ward"
+    },
+    {
+        "assetid": "29285400618",
+        "market_hash_name": "Bantam Blaze - Arms"
+    },
+    {
+        "assetid": "29285400610",
+        "market_hash_name": "Bantam Blaze - Belt"
+    },
+    {
+        "assetid": "29285400602",
+        "market_hash_name": "Bantam Blaze - Head"
+    },
+    {
+        "assetid": "29285400594",
+        "market_hash_name": "Bantam Blaze - Offhand Weapon"
+    },
+    {
+        "assetid": "29285400586",
+        "market_hash_name": "Bantam Blaze - Weapon"
+    },
+    {
+        "assetid": "29285400578",
+        "market_hash_name": "Bantam Blaze Loading Screen"
+    },
+    {
+        "assetid": "29299634474",
+        "market_hash_name": "Phalanx of the Bronze Eagle - Weapon"
+    },
+    {
+        "assetid": "29281777722",
+        "market_hash_name": "MMR Doubledown Token"
+    },
+    {
+        "assetid": "29272322802",
+        "market_hash_name": "Bracers of the Drake"
+    },
+    {
+        "assetid": "29262129370",
+        "market_hash_name": "The Acolyte Priest's Bonesaw"
+    },
+    {
+        "assetid": "29262129362",
+        "market_hash_name": "Acolyte Priest's Robes"
+    },
+    {
+        "assetid": "29262129354",
+        "market_hash_name": "Acolyte Priest's Headdress"
+    },
+    {
+        "assetid": "29262129346",
+        "market_hash_name": "Acolyte Priest's Guard"
+    },
+    {
+        "assetid": "29262128578",
+        "market_hash_name": "Lord of the Vicious Plains Loading Screen"
+    },
+    {
+        "assetid": "29262128570",
+        "market_hash_name": "Tail of the Vicious Plains"
+    },
+    {
+        "assetid": "29262128562",
+        "market_hash_name": "Plate of the Vicious Plains"
+    },
+    {
+        "assetid": "29262128554",
+        "market_hash_name": "Bracers of the Vicious Plains"
+    },
+    {
+        "assetid": "29262128546",
+        "market_hash_name": "Spikes of the Vicious Plains"
+    },
+    {
+        "assetid": "29262128538",
+        "market_hash_name": "Belt of the Vicious Plains"
+    },
+    {
+        "assetid": "29262128530",
+        "market_hash_name": "Helmet of the Vicious Plains"
+    },
+    {
+        "assetid": "29262128050",
+        "market_hash_name": "Serpent of Shamanic Light"
+    },
+    {
+        "assetid": "29262128042",
+        "market_hash_name": "Armbands of Shamanic Light"
+    },
+    {
+        "assetid": "29262128034",
+        "market_hash_name": "Skirt of Shamanic Light"
+    },
+    {
+        "assetid": "29262128026",
+        "market_hash_name": "Hood of Shamanic Light"
+    },
+    {
+        "assetid": "29262128018",
+        "market_hash_name": "Candelabra of Shamanic Light"
+    },
+    {
+        "assetid": "29262127026",
+        "market_hash_name": "Frozen Void Head"
+    },
+    {
+        "assetid": "29262127018",
+        "market_hash_name": "Frozen Void Loading Screen"
+    },
+    {
+        "assetid": "29262127010",
+        "market_hash_name": "Frozen Void Shoulder"
+    },
+    {
+        "assetid": "29262127002",
+        "market_hash_name": "Frozen Void Belt"
+    },
+    {
+        "assetid": "29262126994",
+        "market_hash_name": "Frozen Void Arms"
+    },
+    {
+        "assetid": "29262126986",
+        "market_hash_name": "Frozen Void Weapon"
+    },
+    {
+        "assetid": "29330980970",
+        "market_hash_name": "Dreadhawk Blade"
+    },
+    {
+        "assetid": "29262128522",
+        "market_hash_name": "Axe of the Vicious Plains"
+    },
+    {
+        "assetid": "29262129338",
+        "market_hash_name": "Acolyte Priest's Fur"
+    },
+    {
+        "assetid": "29262128010",
+        "market_hash_name": "Wand of Shamanic Light"
+    },
+    {
+        "assetid": "29262123466",
+        "market_hash_name": "Bow of the Winterwood Vesture"
+    },
+    {
+        "assetid": "29262123458",
+        "market_hash_name": "Armor of the Winterwood Vesture"
+    },
+    {
+        "assetid": "29262123450",
+        "market_hash_name": "Quiver of the Winterwood Vesture"
+    },
+    {
+        "assetid": "29262123442",
+        "market_hash_name": "Boots of the Winterwood Vesture"
+    },
+    {
+        "assetid": "29262123434",
+        "market_hash_name": "Hood of the Winterwood Vesture"
+    },
+    {
+        "assetid": "29262123426",
+        "market_hash_name": "Cape of the Winterwood Vesture"
+    },
+    {
+        "assetid": "29262123418",
+        "market_hash_name": "Arms of the Winterwood Vesture"
+    },
+    {
+        "assetid": "29262123410",
+        "market_hash_name": "Winterwood Vesture Loading Screen"
+    },
+    {
+        "assetid": "29262120738",
+        "market_hash_name": "Feasts of Fear Loading Screen"
+    },
+    {
+        "assetid": "29262120730",
+        "market_hash_name": "Feasts of Fear - Shoulders"
+    },
+    {
+        "assetid": "29262120722",
+        "market_hash_name": "Feasts of Fear - Head"
+    },
+    {
+        "assetid": "29262120714",
+        "market_hash_name": "Feasts of Fear - Back"
+    },
+    {
+        "assetid": "29262120706",
+        "market_hash_name": "Feasts of Fear - Arms"
+    },
+    {
+        "assetid": "29240075466",
+        "market_hash_name": "Sleeves of the Ephemeral Haunt"
+    },
+    {
+        "assetid": "29237488938",
+        "market_hash_name": "Jewels of Teardrop Ice Set"
+    },
+    {
+        "assetid": "29199289626",
+        "market_hash_name": "Sylvan Guard's Dress Armor"
+    },
+    {
+        "assetid": "29163543170",
+        "market_hash_name": "Sigil of the Tahlin Watch"
+    },
+    {
+        "assetid": "29136288922",
+        "market_hash_name": "Ceremonial Thorax of Qaldin"
+    },
+    {
+        "assetid": "20697146622",
+        "market_hash_name": "Berserker's Belt"
+    },
+    {
+        "assetid": "20697146618",
+        "market_hash_name": "Berserker's Helm"
+    },
+    {
+        "assetid": "20697146342",
+        "market_hash_name": "Ghastly Scarf of the Corpse Maiden"
+    },
+    {
+        "assetid": "20697146338",
+        "market_hash_name": "Wicked Collar of the Corpse Maiden"
+    },
+    {
+        "assetid": "20697145934",
+        "market_hash_name": "Tail of Omexe"
+    },
+    {
+        "assetid": "20697145930",
+        "market_hash_name": "Spine of Omexe"
+    },
+    {
+        "assetid": "20697145926",
+        "market_hash_name": "Helmet of Omexe"
+    },
+    {
+        "assetid": "20697145922",
+        "market_hash_name": "Flail of Omexe"
+    },
+    {
+        "assetid": "20697145918",
+        "market_hash_name": "Bracers Omexe"
+    },
+    {
+        "assetid": "20697145914",
+        "market_hash_name": "Belt of Omexe"
+    },
+    {
+        "assetid": "20697145566",
+        "market_hash_name": "Cuffs of Oak and Yew"
+    },
+    {
+        "assetid": "20697145562",
+        "market_hash_name": "Runed Ailettes"
+    },
+    {
+        "assetid": "20697145558",
+        "market_hash_name": "Cape of Verdant Dreaming"
+    },
+    {
+        "assetid": "20697145554",
+        "market_hash_name": "Luxuriant Chin-Foliage"
+    },
+    {
+        "assetid": "20697145550",
+        "market_hash_name": "Horns of Noblesse"
+    },
+    {
+        "assetid": "20697145270",
+        "market_hash_name": "Belt o' Wicked Badness"
+    },
+    {
+        "assetid": "20697145266",
+        "market_hash_name": "Mask o' Wicked Badness"
+    },
+    {
+        "assetid": "20697145262",
+        "market_hash_name": "Staff o' Wicked Badness"
+    },
+    {
+        "assetid": "20697144222",
+        "market_hash_name": "Grip of the Swordmaster"
+    },
+    {
+        "assetid": "20697144218",
+        "market_hash_name": "Fluted Guard of the Swordmaster"
+    },
+    {
+        "assetid": "20697144214",
+        "market_hash_name": "Girth of the Swordmaster"
+    },
+    {
+        "assetid": "20697142986",
+        "market_hash_name": "Long-Fang the Grey Blade"
+    },
+    {
+        "assetid": "20697142982",
+        "market_hash_name": "Aspect Wraps of the High Plains"
+    },
+    {
+        "assetid": "20697142978",
+        "market_hash_name": "Wolf Cape of the High Plains"
+    },
+    {
+        "assetid": "20697139694",
+        "market_hash_name": "Mega-Kills: Axe"
+    },
+    {
+        "assetid": "20697139126",
+        "market_hash_name": "Malevolent Mother Armor"
+    },
+    {
+        "assetid": "20697139122",
+        "market_hash_name": "Malevolent Mother Malevoling"
+    },
+    {
+        "assetid": "20697139118",
+        "market_hash_name": "Malevolent Mother Legs"
+    },
+    {
+        "assetid": "20697139114",
+        "market_hash_name": "Malevolent Mother Loading Screen"
+    },
+    {
+        "assetid": "20697139110",
+        "market_hash_name": "Malevolent Mother Back"
+    },
+    {
+        "assetid": "20697139106",
+        "market_hash_name": "Malevolent Mother Head"
+    },
+    {
+        "assetid": "20697131874",
+        "market_hash_name": "Kraken Shell"
+    },
+    {
+        "assetid": "20697144210",
+        "market_hash_name": "Tayrnhelm of the Swordmaster"
+    },
+    {
+        "assetid": "20697142974",
+        "market_hash_name": "Stoic Mask of the High Plains"
+    },
+    {
+        "assetid": "20697131882",
+        "market_hash_name": "Wards of Dolfrat"
+    },
+    {
+        "assetid": "20697145258",
+        "market_hash_name": "Juju o' Wicked Badness"
+    },
+    {
+        "assetid": "20697145910",
+        "market_hash_name": "Armor of Omexe"
+    },
+    {
+        "assetid": "20697146334",
+        "market_hash_name": "Dress of the Corpse Maiden"
+    },
+    {
+        "assetid": "20697139690",
+        "market_hash_name": "Announcer: Axe"
+    },
+    {
+        "assetid": "20697146614",
+        "market_hash_name": "Berserker's Pauldron"
+    },
+    {
+        "assetid": "20697145546",
+        "market_hash_name": "Runestaff of Verodicia"
+    },
+    {
+        "assetid": "20697110010",
+        "market_hash_name": "Nature's Shortbow"
+    },
+    {
+        "assetid": "29118476522",
+        "market_hash_name": "Quills of the Ravager"
+    },
+    {
+        "assetid": "20682974570",
+        "market_hash_name": "Gunslinger's Rifle"
+    },
+    {
+        "assetid": "20682974566",
+        "market_hash_name": "Gunslinger's Hat"
+    },
+    {
+        "assetid": "20682974562",
+        "market_hash_name": "Gunslinger's Cape"
+    },
+    {
+        "assetid": "20682971190",
+        "market_hash_name": "Trolltooth Necklace"
+    },
+    {
+        "assetid": "20682974558",
+        "market_hash_name": "Gunslinger's Bracers"
+    },
+    {
+        "assetid": "20682971186",
+        "market_hash_name": "Genuine Shade of the Ranger"
+    },
+    {
+        "assetid": "20682971198",
+        "market_hash_name": "Dolfrat and Roshinante Scholar Edition"
+    },
+    {
+        "assetid": "20677995254",
+        "market_hash_name": "Bloodmist Helm"
+    },
+    {
+        "assetid": "20675824194",
+        "market_hash_name": "Hare Hunt Sleeves"
+    },
+    {
+        "assetid": "20675824186",
+        "market_hash_name": "Artificer's Chisel"
+    },
+    {
+        "assetid": "20675826054",
+        "market_hash_name": "Inscribed Arc of the Northern Wind"
+    },
+    {
+        "assetid": "20673379678",
+        "market_hash_name": "Dota Plus Victory Shout"
+    }
+]
