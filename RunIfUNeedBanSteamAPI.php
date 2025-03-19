@@ -115,7 +115,7 @@ do {
                 $marketHashName = $descriptions[$key];
                 echo "Получение цены для: $marketHashName\n";
                 $marketPrice = getMarketPrice($marketHashName);
-
+                echo "Цена для $marketHashName: " . ($marketPrice ?? 'Цена недоступна') . "\n";
                 $assetsWithMarketNamesAndPrices[] = [
                     'market_hash_name' => $marketHashName,
                     'market_price' => $marketPrice
